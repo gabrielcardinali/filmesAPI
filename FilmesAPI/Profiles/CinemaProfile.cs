@@ -2,7 +2,7 @@
 using FilmesApi.Data.Dtos;
 using FilmesApi.Models;
 
-namespace FilmesApi;
+namespace FilmesApi.Profiles;
 
 public class CinemaProfile : Profile
 {
